@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Port And Starboard</string>
+    <string name="quiz_question_title">Which side of the ship is the following?</string>
+    <string name="show_right_name">Show Right Name</string>
+    <string name="show_left_name">Show Left Name</string>
+    <string name="means_left_answer">Means Left</string>
+    <string name="means_right_answer">Means Right</string>
+    <string name="title_message">How to navigate a ship</string>
+    <string name="left_port_explanation">Port (left) is red</string>
+    <string name="right_starboard_explanation">Starboard (right) is green</string>
+</resources>
