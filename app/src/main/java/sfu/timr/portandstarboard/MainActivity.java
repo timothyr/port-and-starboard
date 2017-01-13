@@ -64,8 +64,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void newQuizQuestion() {
-        // Set Quiz question
-        terminologyGame = new Game();
+        terminologyGame = new Game(); // Generates new random quiz solution
         TextView quizQuestion = (TextView) findViewById(R.id.quizQuestion);
         quizQuestion.setText(terminologyGame.getChosenSideName());
     }
